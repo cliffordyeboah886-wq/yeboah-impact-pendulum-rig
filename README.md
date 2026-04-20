@@ -24,3 +24,11 @@ To cite this repository in your work:
 
 ## About the Author
 Clifford Yeboah is a Ghanaian researcher and architectural designer. His work focuses on bridging the gap between theoretical physics and practical industrial applications, with a specific focus on inclusive technical education.
+
+---
+
+### 🛡️ Intellectual Property Note
+While this software is licensed under the MIT License, the theoretical framework and mathematical derivation of **Yeboah’s Law of Cutting** remain the intellectual property of **Clifford Yeboah**. 
+
+Any use of this law in commercial applications, industrial tools, or academic publications must be properly cited as follows:
+> *Yeboah, C. (2024). Yeboah’s Law: A Geometric Framework for Mechanical Separation and Impact Mechanics.*
