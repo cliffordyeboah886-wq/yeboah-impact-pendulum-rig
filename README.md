@@ -14,11 +14,11 @@ This repository contains the computational framework and simulation tools for **
 ## 📖 Citation
 If you use this framework or the theoretical principles of Yeboah's Law in your research, please cite it as follows:
 
-> Yeboah, C. (2024). *Yeboah’s Law: A Geometric Framework for Mechanical Separation and Impact Mechanics*. Software available at: https://github.com/cliffordyeboah886-wq
+> Yeboah, C. (2024). *Yeboah’s Law: A Geometric Framework for Mechanical Separation and Impact Mechanics*. Software available at: https://github.com/cliffordyeboah886-wq/yeboah-impact-pendulum-rig
 
 ## 🛠️ Installation & Usage
-To run the simulation dashboard locally:
+To run the simulation locally:
 
-1. **Clone the repository:** 
+1. **Clone this repository:** 
    ```bash
-   git clone https://github.com/cliffordyeboah886-wq/Yeboah-Simulation-Dashboard.git
+   git clone https://github.com/cliffordyeboah886-wq/yeboah-impact-pendulum-rig.git
