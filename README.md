@@ -17,7 +17,7 @@ If you use this framework or the theoretical principles of Yeboah's Law in your 
 > Yeboah, C. (2024). *Yeboah’s Law: A Geometric Framework for Mechanical Separation and Impact Mechanics*. Software available at: [(https://cliffordyeboah886-wq.github.io/yeboah-impact-pendulum-rig/)]
 
 ## 🛠️ Installation & Usage
-1. Clone the repository: `git clone https://github.com/your-username/your-repo-name.git`
+1. Clone the repository: `git clone (https://cliffordyeboah886-wq.github.io/yeboah-impact-pendulum-rig/)`
 2. Run the dashboard: [Insert command here, e.g., `python main.py`]
 
 ---
