@@ -1,9 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this software or the Yeboah's Law framework, please cite it as below."
+message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Yeboah
-    given-names: Clifford
-title: "Yeboah’s Law: A Geometric Framework for Mechanical Separation"
+- family-names: "Yeboah"
+  given-names: "Clifford"
+  orcid: "https://orcid.org/0000-0002-1153-2555"
+title: "Yeboah’s Law: A Geometric Framework for Mechanical Separation and Impact Mechanics"
 version: 1.0.0
-date-released: 2024-04-19
-url: "https://cliffordyeboah886-wq.github.io/yeboah-impact-pendulum-rig/"
+date-released: 2024-10-24
+url: "https://github.com/cliffordyeboah886-wq/yeboah-impact-pendulum-rig"
