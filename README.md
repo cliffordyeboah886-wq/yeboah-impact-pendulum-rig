@@ -1,6 +1,6 @@
 # Yeboah’s Law: A Geometric Framework for Mechanical Separation
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1153--2555-green)](https://orcid.org/0009-0000-9001-2643)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1153--2555-brightgreen)](https://orcid.org/0009-0000-9001-2643)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📌 Overview
@@ -14,11 +14,11 @@ This repository contains the computational framework and simulation tools for **
 ## 📖 Citation
 If you use this framework or the theoretical principles of Yeboah's Law in your research, please cite it as follows:
 
-> Yeboah, C. (2024). *Yeboah’s Law: A Geometric Framework for Mechanical Separation and Impact Mechanics*. Software available at: https://github.com/cliffordyeboah886-wq/Yeboah-Simulation-Dashboard
+> Yeboah, C. (2024). *Yeboah’s Law: A Geometric Framework for Mechanical Separation and Impact Mechanics*. Software available at: https://github.com/cliffordyeboah886-wq
 
 ## 🛠️ Installation & Usage
 To run the simulation dashboard locally:
 
-1. Clone the repository: 
+1. **Clone the repository:** 
    ```bash
-   git clone https://cliffordyeboah886-wq.github.io/Yeboah-Simulation-Dashboard/
+   git clone https://github.com/cliffordyeboah886-wq/Yeboah-Simulation-Dashboard.git
