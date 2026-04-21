@@ -21,4 +21,4 @@ To run the simulation dashboard locally:
 
 1. Clone the repository: 
    ```bash
-   git clone (https://cliffordyeboah886-wq.github.io/Yeboah-Simulation-Dashboard/)
+   git clone https://cliffordyeboah886-wq.github.io/Yeboah-Simulation-Dashboard/
