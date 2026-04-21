@@ -1,6 +1,6 @@
 # Yeboah’s Law: A Geometric Framework for Mechanical Separation
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009-0000-9001-2643-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-9001-2643)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1153--2555-green)](https://orcid.org/0009-0000-9001-2643)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📌 Overview
@@ -14,18 +14,11 @@ This repository contains the computational framework and simulation tools for **
 ## 📖 Citation
 If you use this framework or the theoretical principles of Yeboah's Law in your research, please cite it as follows:
 
-> Yeboah, C. (2024). *Yeboah’s Law: A Geometric Framework for Mechanical Separation and Impact Mechanics*. Software available at: [(https://cliffordyeboah886-wq.github.io/yeboah-impact-pendulum-rig/)]
+> Yeboah, C. (2024). *Yeboah’s Law: A Geometric Framework for Mechanical Separation and Impact Mechanics*. Software available at: https://github.com/cliffordyeboah886-wq/Yeboah-Simulation-Dashboard
 
 ## 🛠️ Installation & Usage
-1. Clone the repository: `git clone (https://cliffordyeboah886-wq.github.io/yeboah-impact-pendulum-rig/)`
-2. Run the dashboard: [Insert command here, e.g., `python main.py`]
+To run the simulation dashboard locally:
 
----
-
-### 🛡️ Intellectual Property Note
-While this software is licensed under the **MIT License**, the theoretical framework and mathematical derivation of **Yeboah’s Law of Cutting** remain the intellectual property of **Clifford Yeboah**. 
-
-Any use of this law in commercial applications, industrial tools, or academic publications must be properly cited as per the instructions above.
-
----
-**Author:** [Clifford Yeboah](https://orcid.org/0009-0000-9001-2643)
+1. Clone the repository: 
+   ```bash
+   git clone https://github.com/cliffordyeboah886-wq/Yeboah-Simulation-Dashboard.git
